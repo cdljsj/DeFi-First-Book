@@ -3,6 +3,11 @@
   "description": "第一本系统介绍 DeFi 的中文书籍",
   "language": "zh",
   "author": "Ashton",
+  "links": {
+    "sidebar": {
+      "DeFi 小白书": "https://cdljsj.github.io/DeFi-First-Book/"
+    }
+  },
   "plugins": [
     "-lunr",
     "-search",
